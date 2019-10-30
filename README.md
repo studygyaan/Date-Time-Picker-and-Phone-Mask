@@ -5,9 +5,9 @@ Basically we are merging jQuery UI Datepicker and Timepicker.
 
 Links
 
-https://github.com/trentrichardson/jQuery-Timepicker-Addon
+jQuery UI Datepicker - https://jqueryui.com/datepicker/
 
-https://jqueryui.com/datepicker/
+Timepicker - https://github.com/trentrichardson/jQuery-Timepicker-Addon
 
-https://github.com/rajaramtt/jquery-input-mask-phone-number
+Phone Mask - https://github.com/rajaramtt/jquery-input-mask-phone-number
 
