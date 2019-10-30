@@ -17,11 +17,6 @@ Phone Mask - https://github.com/rajaramtt/jquery-input-mask-phone-number
 
 2. Give Path to Library
 
-###### For Phone Mask - [How to use](https://github.com/rajaramtt/jquery-input-mask-phone-number)
-```
-<script src="/path/to/jquery-input-mask-phone-number.min.js"></script>
-```
-
 ###### For Date Time Picker [How to use Datepicker](https://jqueryui.com/datepicker/) | [How to use Timepicker](https://github.com/trentrichardson/jQuery-Timepicker-Addon)
 ```
 <link rel="stylesheet" href="/path/to/jquery-ui.css">
@@ -29,4 +24,9 @@ Phone Mask - https://github.com/rajaramtt/jquery-input-mask-phone-number
 
 <script src="/path/to/jquery-ui.js" ></script>
 <script src="/path/to/jquery-ui-timepicker-addon.js"></script> 
+```
+
+###### For Phone Mask - [How to use](https://github.com/rajaramtt/jquery-input-mask-phone-number)
+```
+<script src="/path/to/jquery-input-mask-phone-number.min.js"></script>
 ```
