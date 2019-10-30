@@ -1,9 +1,5 @@
 # Pack-of-jQuery-UI-Datepicker-and-Timepicker
-We are creating a package of jQuery UI Datepicker, Timepicker and Phone Mask.
-
-Basically we are merging jQuery UI Datepicker and Timepicker. 
-
-Links
+We are creating a package or merging jQuery UI Datepicker, Timepicker and Phone Mask.
 
 jQuery UI Datepicker - https://jqueryui.com/datepicker/
 
